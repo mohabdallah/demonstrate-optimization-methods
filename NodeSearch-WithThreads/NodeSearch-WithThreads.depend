@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1761142557 source:c:\users\mohamed_abdallah\documents\nodesearch-withthreads\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<locale>
+	<algorithm>
+	<functional>
+	<memory>
+	<future>
+	<thread>
+

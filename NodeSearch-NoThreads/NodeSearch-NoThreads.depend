@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1761142888 source:c:\users\mohamed_abdallah\documents\nodesearch-nothreads\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<locale>
+	<algorithm>
+	<functional>
+	<memory>
+
